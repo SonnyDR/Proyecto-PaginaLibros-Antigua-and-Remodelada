@@ -1,0 +1,17 @@
+----------------------VERSION---------------------
+Version 0.1.0 - Inico de desarollo - 26/04/2021
+
+- empeando a estructurarla con HTML5
+- epezando a darle diseño con CSS3
+- añadiendo todas las funcionalidades que va a tener
+- empezando a añadir el contedio que va a tener
+- adaptandola a dispositivos mobiles
+
+----------------------VERSION---------------------
+Version 2.0 - Inico de desarollo de la remodelacion - 24/10/2022
+
+- Misma estructura
+- Va a ser mas ligera
+- Menor codigo
+- Se implementa la heramineta Bootstrap
+- Adaptacion a dispositivos moviles mucho mas ligero y bien estructurado

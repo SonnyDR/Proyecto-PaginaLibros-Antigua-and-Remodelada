@@ -1,0 +1,39 @@
+.section1 {
+    background: black;
+    height: 300px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.section1 p {
+    color: white;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.section1 img {
+    margin: 0 auto;
+    width: 20%;
+    height: 200px;
+}
+
+#email-img {
+    position: relative;
+    height: 165px;
+    bottom: 20px;
+}
+
+@media screen and (max-width:500px){
+    
+    .section1 img {
+        width: 33%;
+        display: inline;
+        height: 110px;
+    }
+    
+    #email-img {
+        position: relative;
+        height:100px;
+        bottom: 5px;
+    }
+}

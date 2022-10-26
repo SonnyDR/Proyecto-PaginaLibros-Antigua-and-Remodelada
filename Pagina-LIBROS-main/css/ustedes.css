@@ -1,0 +1,22 @@
+.section1 {
+    height: 550px;
+}
+
+.section1 img {
+    text-align: center;
+    margin: 0 auto;
+    height: 550px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+@media screen and (max-width: 500px){
+    
+    .section1 {
+        height: 400px;
+    }
+    
+    .section1 img {
+        height: 400px;
+    }
+}

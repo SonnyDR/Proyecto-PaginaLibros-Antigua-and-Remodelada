@@ -1,0 +1,8 @@
+----------------------VERSION---------------------
+Version 0.1.0 - Inico de desarollo - 26/04/2021
+
+- empeando a estructurarla con HTML5
+- epezando a darle diseño con CSS3
+- añadiendo todas las funcionalidades que va a tener
+- empezando a añadir el contedio que va a tener
+- adaptandola a dispositivos mobiles
